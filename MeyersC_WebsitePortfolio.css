@@ -1,0 +1,59 @@
+html { 
+
+}
+head{
+    background: lightpink;
+    border: 200px;
+    border
+}
+body { 
+    background: #FFFFFF;
+    width: auto;
+    margin: auto;
+    padding: 2rem;
+    background-image: url("MeyersC_BackgroundImage.jpeg");
+    background-color: white .25;
+
+}
+h1 {
+    text-align: center;
+    
+}
+
+
+}
+header {
+    background: lightpink;
+    border: auto;
+    
+    
+}
+
+nav {
+   /* background-position: fixed;
+    border: 10px solid lightpink;
+    background-color: lightpink;*/
+    text-align: center;
+}
+
+a {
+    background: lightpink;
+    width:300px;
+    border: 1px solid black;
+    padding: 9px; 
+    text-decoration: none; 
+}
+a:hover{
+    background: lightyellow;
+    width:300px;
+    border: 1px solid black;
+    padding: 9px; 
+    text-decoration: none; 
+}
+a:active {
+    background: lightgreen;
+    width:300px;
+    border: 1px solid black;
+    padding: 9px; 
+    text-decoration: none; 
+}
